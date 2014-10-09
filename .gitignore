@@ -1,0 +1,11 @@
+*.idea/
+*target/
+*project/
+*submission/
+*lib_managed/
+*.iml
+*.swp
+*.swo
+*.bak
+*.iml
+*.zip
